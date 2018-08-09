@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ольга Думчева](https://up.htmlacademy.ru/htmlcss/22/user/853631).
-* Наставник: [Николай Думчев].
+* Наставник: [Николай Думчев](https://htmlacademy.ru/profile/nikopol_fw).
 
 ---
 
